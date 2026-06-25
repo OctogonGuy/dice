@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="85cb2cd3-b868-4149-b2c8-5ad0db93fab0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/animation/01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/animation/02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/animation/03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/animation/04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/animation/05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/animation/06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/animation/07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/animation/08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/animation/09.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/animation/10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/animation/11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/animation/12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/animation/13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/animation/14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/animation/15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/animation/16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/animation/17.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/animation/18.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/animation/19.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/animation/20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/animation/21.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/animation/22.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/animation/23.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/animation/24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/animation/25.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/animation/26.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/animation/27.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/animation/28.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/animation/29.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/animation/30.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/animation/31.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/animation/32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/background.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/cheer.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/dice.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/diceFive.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/diceFour.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/diceOne.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/diceSix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/diceThree.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/diceTwo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/animation/01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/animation/02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/animation/03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/animation/04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/animation/05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/animation/06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/animation/07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/animation/08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/animation/09.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/animation/10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/animation/11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/animation/12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/animation/13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/animation/14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/animation/15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/animation/16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/animation/17.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/animation/18.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/animation/19.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/animation/20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/animation/21.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/animation/22.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/animation/23.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/animation/24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/animation/25.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/animation/26.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/animation/27.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/animation/28.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/animation/29.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/animation/30.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/animation/31.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/animation/32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/background.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/cheer.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/dice.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/diceFive.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/diceFour.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/diceOne.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/diceSix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/diceThree.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/diceTwo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tech/octopusdragon/dice/Category.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tech/octopusdragon/dice/DiceGame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tech/octopusdragon/dice/Die.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tech/octopusdragon/dice/Player.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tech/octopusdragon/dice/gui/CategoryInfoPanel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tech/octopusdragon/dice/gui/DiceApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tech/octopusdragon/dice/gui/NewGameDialog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tech/octopusdragon/dice/gui/RollAnimation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tech/octopusdragon/dice/gui/VariantInfoDialog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tech/octopusdragon/dice/variants/Crag.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tech/octopusdragon/dice/variants/Yacht.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="14" />
+    <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.204238477439119" />
+      <entry key="MS500" value="2.255032843850481" />
+      <entry key="S2" value="3.0418868182287424" />
+      <entry key="S5" value="4.630668033663728" />
+      <entry key="S10" value="6.880826668154322" />
+      <entry key="S30" value="10.59025252020639" />
+      <entry key="S60" value="12.110056793948358" />
+      <entry key="M2" value="13.132662669023281" />
+      <entry key="M5" value="17.080853753190468" />
+      <entry key="M10" value="25.48858554676672" />
+      <entry key="M15" value="31.849260373609205" />
+      <entry key="M30" value="42.09517383993231" />
+      <entry key="H1" value="49.471441680216714" />
+      <entry key="H2" value="53.9277253039531" />
+      <entry key="H4" value="56.38133108186904" />
+      <entry key="D1" value="58.55158812218402" />
+      <entry key="W1" value="58.93564126439041" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="2.803000169203173E-209" />
+      <entry key="S5" value="3.79358002252898E-84" />
+      <entry key="S10" value="1.947711483389923E-42" />
+      <entry key="S30" value="1.2488440478056566E-14" />
+      <entry key="S60" value="1.117516911641902E-7" />
+      <entry key="M2" value="3.342928224838074E-4" />
+      <entry key="M5" value="0.04070528696860797" />
+      <entry key="M10" value="0.20175551285803317" />
+      <entry key="M15" value="0.34399352951314144" />
+      <entry key="M30" value="0.586509615874405" />
+      <entry key="H1" value="0.7658391579662166" />
+      <entry key="H2" value="0.8751223674242454" />
+      <entry key="H4" value="0.935479752546385" />
+      <entry key="D1" value="0.988945591199775" />
+      <entry key="W1" value="0.9984132655069229" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.1525255914482408" />
+      <entry key="MS500" value="2.217781189816788" />
+      <entry key="S2" value="3.0042186079322426" />
+      <entry key="S5" value="4.526240307003502" />
+      <entry key="S10" value="6.767270762383874" />
+      <entry key="S30" value="10.52529950868459" />
+      <entry key="S60" value="12.072792087699392" />
+      <entry key="M2" value="13.113002874984865" />
+      <entry key="M5" value="17.11205213068617" />
+      <entry key="M10" value="25.68266150027451" />
+      <entry key="M15" value="32.186203137369375" />
+      <entry key="M30" value="42.676368267504685" />
+      <entry key="H1" value="50.23391795519409" />
+      <entry key="H2" value="54.80094391509997" />
+      <entry key="H4" value="57.31579648190653" />
+      <entry key="D1" value="59.54035533017845" />
+      <entry key="W1" value="59.93402880933304" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3FbaWVZi4eDziBVAbPcmbK0psJH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Application.executor": "Run",
+    "Maven.application.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/tech/octopusdragon/dice/gui" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Maven.application">
+    <configuration name="Application" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="tech.octopusdragon.dice.gui.DiceApplication" />
+      <module name="dice" />
+      <option name="VM_PARAMETERS" value="--enable-native-access=javafx.graphics --enable-native-access=javafx.media" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="application" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="cmdOptions" />
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="javafx:run" />
+              </list>
+            </option>
+            <option name="multimoduleDir" />
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="projectsCmdOptionValues">
+              <list />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Application" />
+      <item itemvalue="Maven.application" />
+    </list>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.25134.95" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-IU-261.25134.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="85cb2cd3-b868-4149-b2c8-5ad0db93fab0" name="Changes" comment="" />
+      <created>1782346255408</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1782346255408</updated>
+      <workItem from="1782346256575" duration="2337000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
